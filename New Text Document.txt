@@ -1,0 +1,1 @@
+& "C:\Users\Sricharan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts\streamlit.exe" run "C:\Users\Sricharan\Desktop\plant-disease-prediction-cnn-deep-leanring-project-main\plant-disease-prediction-cnn-deep-leanring-project-main\app\main.py"
